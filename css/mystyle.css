@@ -1,0 +1,183 @@
+html {
+	font-size: 20px;
+	min-height: 100%;
+}
+
+body {
+	/*background:#fffdf7 url(../img/bg.png) no-repeat center center;
+	background-size: 100% 100%;*/
+	background: #fff;
+	min-height: 100%;
+}
+
+.wrap {
+	width: 16rem;
+	min-height: 100%;
+	position: relative;
+}
+
+.logo {
+	width: 3.9rem;
+	margin-top: 0.75rem;
+	margin-left: 0.75rem;
+}
+
+.icon {
+	text-align: center;
+	padding: 0 0.75rem;
+}
+
+.icon img {
+	width: 3.75rem;
+	height: 3.75rem;
+	-moz-box-shadow: 0px 6px 10px #999;
+	-webkit-box-shadow: 0px 6px 10px #999;
+	box-shadow: 0px 6px 10px #999;
+	border-radius: 0.5rem;
+}
+
+.icon h2 {
+	font-size: 0.9rem;
+	color: #333;
+	/*margin-top: 0.75rem;*/
+	line-height: 0.9rem;
+}
+
+.icon p {
+	color: #808080;
+}
+
+.icon p.size {
+	font-size: 0.7rem;
+	margin-top: 0.5rem;
+	line-height: 0.75rem;
+}
+
+.icon p.describe {
+	font-size: 0.7rem;
+	margin-top: 0.55rem;
+	line-height: 1.1rem;
+	text-align: left;
+}
+
+.download-btn {
+	width: 12.5rem;
+	height: 2.225rem;
+	line-height: 2.225rem;
+	color: #fff;
+	background: #ff6744;
+	border-radius: 0.2rem;
+	font-size: 0.9rem;
+	text-align: center;
+	position: relative;
+	/*bottom: 5.2rem;
+	left: 50%;
+	margin-left: -6.25rem;*/
+	display: inline-block;
+	margin: 1.75rem 1.75rem 0.75rem;
+}
+
+.shadow {
+	width: 16rem;
+	min-height: 100%;
+	background: url(../img/shadow.png) no-repeat center center;
+	background-size: 100% 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none;
+}
+
+
+.ll_down {
+	width: 100%;
+	height: 12.2rem;
+	overflow: hidden;
+	position: relative;
+}
+
+.ll_left {
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: url(../img/left-bg.png) no-repeat left top;
+	width: 2.85rem;
+	height: 11.2rem;
+	background-size: 100% 100%;
+}
+
+.ll_right {
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: url(../img/right-bg.png) no-repeat right top;
+	width: 2.85rem;
+	height: 11.2rem;
+	background-size: 100% 100%;
+}
+
+.ll_icon {
+	width: 6.8rem;
+	height: 5.54rem;
+	position: absolute;
+	margin-left: -2.5rem;
+	left: 50%;
+	bottom: 0;
+	background: url(../img/shoimg-w.png) no-repeat top left;
+	background-size: 100% 100%;
+}
+
+.ll_footer {
+	margin-top:1rem;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border-top: 1px solid #e6e6e6;
+	padding: 1.3rem 0.7rem 1.4rem;
+	box-sizing: border-box;
+}
+
+.ll_footer ul {
+	width: 100%;
+	height: auto;
+}
+
+.ll_footer li {
+	font-size: 0.2rem;
+	color: #808080;
+	float: left;
+	box-sizing: border-box;
+}
+
+.ll_footer li i.ll_k {
+	background: url(../img/kefu.png) no-repeat left center;
+	background-size: 12px 13px;
+	display: inline-block;
+	width: 12px;
+	height: 13px;
+	margin-right: 0.1rem;
+}
+
+.ll_footer li i.ll_y {
+	background: url(../img/youjian-bg.png) no-repeat left center;
+	background-size: 14px 10px;
+	display: inline-block;
+	width: 14px;
+	height: 10px;
+	margin-right: 0.1rem;
+}
+
+.ll_footer .ll_litwo {
+	margin-right: 0.8rem;
+}
+
+.lll_noactive {
+	background: #f5f5f5;
+	color: #878787;
+}
+
+.ll_icon img {
+	width: 3.75rem;
+	height: 3.75rem;
+}
+.lll_m{ display: none;margin-bottom:2.75rem;font-size:0.5rem;text-align: center;color: #e63030;}
