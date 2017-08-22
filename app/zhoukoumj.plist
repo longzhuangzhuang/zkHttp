@@ -11,13 +11,13 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-                    <string>https://code.csdn.net/yangdm0209/ctq/blob/master/app/zhoukoumj.ipa</string>
+                    <string>https://raw.githubusercontent.com/longzhuangzhuang/zkHttp/master/app/zhoukoumj.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.mahjong.zhoukou</string>
+        <string>com.majhong.zhoukou</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
